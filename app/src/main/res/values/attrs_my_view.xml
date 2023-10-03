@@ -1,0 +1,17 @@
+<resources>
+
+    <declare-styleable name="MyView">
+        <attr name="exampleString" format="string" />
+        <attr name="exampleDimension" format="dimension" />
+        <attr name="exampleColor" format="color" />
+        <attr name="exampleDrawable" format="color|reference" />
+        <attr name="maxSpeed" format="float" />
+        <attr name="currentSpeed" format="float" />
+        <attr name="onColor" format="color" />
+        <attr name="offColor" format="color" />
+        <attr name="scaleColor" format="color" />
+        <attr name="scaleTextSize" format="dimension" />
+        <attr name="readingTextSize" format="dimension" />
+    </declare-styleable>
+
+</resources>
